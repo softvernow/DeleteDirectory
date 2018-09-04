@@ -1,0 +1,10 @@
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\bin\Debug\DeleteDirectory.exe.config
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\bin\Debug\DeleteDirectory.exe
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\bin\Debug\DeleteDirectory.pdb
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.csprojResolveAssemblyReference.cache
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.Form1.resources
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.Properties.Resources.resources
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.csproj.GenerateResource.Cache
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.csproj.CoreCompileInputs.cache
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.exe
+C:\Users\efortes\source\repos\DeleteDirectory\DeleteDirectory\obj\Debug\DeleteDirectory.pdb
